@@ -11,6 +11,7 @@ public class Main {
         Scanner userInput = new Scanner(System.in);
         String vap = userInput.nextLine().trim();
         System.out.println("Welcome " + vap + "!");
+
     }
 
 }
